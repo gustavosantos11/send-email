@@ -1,7 +1,7 @@
 import smtplib
 import email.message
 
-# srfrhasukyweewsd
+
 from_email = input("Digite seu email:")
 destiny_email = input("Digite o email de quem vai receber:")
 subject = input("Digite o assunto do email:")
